@@ -7,6 +7,7 @@ There are 3 different functions in this script. The first one gives the observed
 To use these functions, you must first clone the repository.
 
 To use on the command line, make sure you are in the folder with the script, then type "python python_exam.py" followed by the DNA string you would like to analyze and the substring length you would like to use
+
 Example:
     python python_exam.py ATGTCTGTCTGTA 2
 
